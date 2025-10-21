@@ -30,6 +30,10 @@ const pages = [
     ),
     href: "/",
   },
+  {
+    label: <span className="text-lg">OG Esports History</span>,
+    href: "/og-esports",
+  },
 ];
 
 export function Header() {
