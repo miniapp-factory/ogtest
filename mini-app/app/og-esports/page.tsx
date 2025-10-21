@@ -31,10 +31,10 @@ export default function OgEsportsPage() {
           <article>
             <h2 className="text-2xl font-semibold">Rise to Prominence</h2>
             <p>
-              The breakthrough came in 2015 when OG's League of Legends team
+              The breakthrough came in 2015 when OG&apos;s League of Legends team
               clinched a major championship, catapulting the organization into
               the spotlight. Subsequent successes across multiple titles
-              solidified OG's reputation.
+              solidified OG&apos;s reputation.
             </p>
           </article>
           <article>
