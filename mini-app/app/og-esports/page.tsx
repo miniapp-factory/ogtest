@@ -38,6 +38,24 @@ export default function OgEsportsPage() {
             </p>
           </article>
           <article>
+            <h2 className="text-2xl font-semibold">Dota 2 Era</h2>
+            <p>
+              OG&apos;s Dota 2 team emerged as a dominant force in the mid‑2010s,
+              winning the International in 2015 and 2016. Their innovative
+              strategies and team synergy set new standards for the competitive
+              scene, earning them a legendary status among fans.
+            </p>
+          </article>
+          <article>
+            <h2 className="text-2xl font-semibold">Counter‑Strike 2 Era</h2>
+            <p>
+              With the launch of Counter‑Strike 2, OG quickly adapted, forming
+              a top‑tier squad that consistently performs at the highest
+              level. Their tactical depth and community engagement have
+              reinforced OG&apos;s reputation as a forward‑thinking organization.
+            </p>
+          </article>
+          <article>
             <h2 className="text-2xl font-semibold">Legacy and Impact</h2>
             <p>
               Today, OG continues to influence the esports landscape through
